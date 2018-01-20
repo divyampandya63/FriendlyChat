@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "126088550591",
+    "firebase_url": "https://friendly-chat-76115.firebaseio.com",
+    "project_id": "friendly-chat-76115",
+    "storage_bucket": "friendly-chat-76115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126088550591:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126088550591-r1agshd15pji723d9jsctrjp7qjqcis4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "dd988c6a6e56afcb8cdef4c69d8e6180d436f473"
+          }
+        },
+        {
+          "client_id": "126088550591-vup7nf02u2fiuehqggp6d2svpm5569sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVAhsJSx2WT_Rkc2cls1Wpy76MhgXitk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126088550591-vup7nf02u2fiuehqggp6d2svpm5569sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126088550591:android:4a21d7c3e360f96d",
+        "android_client_info": {
+          "package_name": "com.example.divyampandya63.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126088550591-jihsfq2qvgco1i7vl8lak32vibpg55mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divyampandya63.friendlychat",
+            "certificate_hash": "dd988c6a6e56afcb8cdef4c69d8e6180d436f473"
+          }
+        },
+        {
+          "client_id": "126088550591-vup7nf02u2fiuehqggp6d2svpm5569sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVAhsJSx2WT_Rkc2cls1Wpy76MhgXitk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126088550591-vup7nf02u2fiuehqggp6d2svpm5569sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
